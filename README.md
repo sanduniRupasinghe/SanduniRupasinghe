@@ -1,4 +1,5 @@
 ### Hi 👋, I'm Sanduni Nimesha
+          Undergraduate in SLIIT
 
 - 🌱 I’m currently learning Information Technology @SLIIT
 - 👯 I’m looking to collaborate on ...
