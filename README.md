@@ -6,7 +6,9 @@
 
 
 ### Languages and Tools:
-Visual Studio CodeHTML5CSS3
+- Visual Studio Code
+HTML5
+CSS3
 
 JavaScriptReact
 
