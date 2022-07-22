@@ -6,16 +6,8 @@
 
 
 ### Languages and Tools:
-- Visual Studio Code
-HTML5
-CSS3
-[
-JavaScriptReact
 
-Node.js
-
-SQLMySQLMongoDBGitGitHub
-](https://reactjs.org/)
+![image](https://user-images.githubusercontent.com/88558440/180419073-a837a2c4-19e9-4726-b8db-5e3567f76472.png)
 
 
 
